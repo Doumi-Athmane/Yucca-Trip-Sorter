@@ -1,0 +1,15 @@
+{
+    "name": "yucca-trip-sorter",
+    "version": "1.0.0",
+    "description": "Test Yucca",
+    "main": "server.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Athmane-Doumi",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "i": "^0.3.7"
+    }
+}

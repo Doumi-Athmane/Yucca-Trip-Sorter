@@ -1,0 +1,105 @@
+[{
+        "cardID": 1,
+        "From": "Barcelona",
+        "To": "Gerona Airport",
+        "MeanOfTransportation": "Bus",
+        "Reference": null,
+        "ComplementInfo": {
+            "Gate": null,
+            "Seat": null,
+            "Baggage": null
+        },
+        "Comment": "No seat assignment"
+    },
+    {
+        "cardID": 2,
+        "From": "Stockholm",
+        "To": "New York JFK",
+        "MeanOfTransportation": "Plane",
+        "Reference": "SK22",
+        "ComplementInfo": {
+            "Gate": "22",
+            "Seat": "7B",
+            "Baggage": null
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 3,
+        "From": "Madrid",
+        "To": "Valence",
+        "MeanOfTransportation": "Train",
+        "Reference": "78A",
+        "ComplementInfo": {
+            "Gate": null,
+            "Seat": "45B",
+            "Baggage": null
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 4,
+        "From": "Madrid",
+        "To": "Barcelona",
+        "MeanOfTransportation": "Train",
+        "Reference": "78A",
+        "ComplementInfo": {
+            "Gate": null,
+            "Seat": "45B",
+            "Baggage": null
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 5,
+        "From": "Gerona Airport",
+        "To": "Stockholm",
+        "MeanOfTransportation": "Plane",
+        "Reference": "SK455",
+        "ComplementInfo": {
+            "Gate": "45B",
+            "Seat": "3A",
+            "Baggage": "344"
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 6,
+        "From": "Algiers",
+        "To": "Paris",
+        "MeanOfTransportation": "Plane",
+        "Reference": "SK86",
+        "ComplementInfo": {
+            "Gate": "29",
+            "Seat": "1A",
+            "Baggage": 485
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 7,
+        "From": "London",
+        "To": "Manchester",
+        "MeanOfTransportation": "Train",
+        "Reference": "25A",
+        "ComplementInfo": {
+            "Gate": null,
+            "Seat": "32",
+            "Baggage": 485
+        },
+        "Comment": ""
+    },
+    {
+        "cardID": 8,
+        "From": "Stockholm",
+        "To": "Los Angeles",
+        "MeanOfTransportation": "Plane",
+        "Reference": "SK22",
+        "ComplementInfo": {
+            "Gate": "22",
+            "Seat": "7B",
+            "Baggage": 485
+        },
+        "Comment": ""
+    }
+]
